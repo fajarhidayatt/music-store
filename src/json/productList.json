@@ -1,0 +1,130 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Rexus Vonix F30",
+            "price": "Rp. 155.000",
+            "image": "dummyHeadset3",
+            "rating": 4.3,
+            "review": 762
+        },
+        {
+            "id": 2,
+            "title": "Rexus BT6 Pro",
+            "price": "Rp. 299.000",
+            "image": "dummyHeadphone2",
+            "rating": 4.4,
+            "review": 423
+        },
+        {
+            "id": 3,
+            "title": "Rexus EP3",
+            "price": "Rp. 179.000",
+            "image": "dummyEarphone1",
+            "rating": 4.8,
+            "review": 2.123
+        },
+        {
+            "id": 4,
+            "title": "JBL Endurance Race",
+            "price": "Rp. 1.899.000",
+            "image": "dummyTws2",
+            "rating": 4.2,
+            "review": 1.762
+        },
+        {
+            "id": 5,
+            "title": "JBL Horizon 2 FM",
+            "price": "Rp. 2.399.000",
+            "image": "dummySpeaker1",
+            "rating": 4.5,
+            "review": 386
+        },
+        {
+            "id": 6,
+            "title": "JBL Go 2",
+            "price": "Rp. 849.000",
+            "image": "dummySpeaker3",
+            "rating": 4.1,
+            "review": 144
+        },
+        {
+            "id": 7,
+            "title": "JBL PartyBox 300",
+            "price": "Rp. 8.999.000",
+            "image": "dummySpeaker4",
+            "rating": 4.9,
+            "review": 23
+        }
+    ],
+    "featured": [
+        {
+            "id": 1,
+            "title": "Rexus Vonix F27",
+            "price": "Rp. 115.000",
+            "image": "dummyHeadset1"
+        },
+        {
+            "id": 2,
+            "title": "Rexus Thundervox HX20",
+            "price": "Rp. 385.000",
+            "image": "dummyHeadset2"
+        },
+        {
+            "id": 3,
+            "title": "Rexus Vonix ME3",
+            "price": "Rp. 150.000",
+            "image": "dummyEarphone2"
+        },
+        {
+            "id": 4,
+            "title": "JBL Tune 230NC",
+            "price": "Rp. 2.099.000",
+            "image": "dummyTws1"
+        }
+    ],
+    "popular": [
+        {
+            "id": 1,
+            "title": "Rexus Thundervox HX28",
+            "price": "Rp. 399.000",
+            "image": "dummyHeadset4",
+            "rating": 4.6,
+            "review": 3.762
+        },
+        {
+            "id": 2,
+            "title": "JBL Playlist",
+            "price": "Rp. 3.199.000",
+            "image": "dummySpeaker2",
+            "rating": 4.3,
+            "review": 1.132
+        }
+    ],
+    "another": [
+        {
+            "id": 1,
+            "title": "Rexus Vonix F27",
+            "price": "Rp. 115.000",
+            "image": "dummyHeadset1"
+        },
+        {
+            "id": 2,
+            "title": "Rexus Thundervox HX20",
+            "price": "Rp. 385.000",
+            "image": "dummyHeadset2"
+        },
+        {
+            "id": 3,
+            "title": "Rexus Vonix F30",
+            "price": "Rp. 155.000",
+            "image": "dummyHeadset3"
+        },
+        {
+            "id": 4,
+            "title": "Rexus Thundervox HX28",
+            "price": "Rp. 399.000",
+            "image": "dummyHeadset4"
+        }
+    ]
+}
